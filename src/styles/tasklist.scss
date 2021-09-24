@@ -17,15 +17,15 @@ section.task-list {
       color: var(--text-title);
       font-size: 2.25rem;
     }
-
-    .input-group {
+    
+    .input-form {
       display: flex;
       gap: 0.25rem;
       align-items: center;
 
       background: #fff;
       font-size: 16px;
-      
+
       input {
         flex: 1;
         background: var(--background);
